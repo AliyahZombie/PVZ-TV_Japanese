@@ -764,7 +764,7 @@ Java_com_android_support_CkHomuraMenu_GetFeatureList(JNIEnv *env, jobject thiz) 
     const char *features[] = {
 
             "Category_By-波奇酱",
-            "Collapse_チート",//**
+            "Collapse_チート",//** 
 
             "1_CollapseAdd_Toggle_太陽は無限",
             "2_CollapseAdd_Toggle_ジャージなし",
