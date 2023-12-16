@@ -48,6 +48,6 @@ jobs:
 
         name: output.zip
         
-        path: app/build
+        path: app/build/outputs/apk
      
    
